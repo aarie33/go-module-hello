@@ -6,3 +6,6 @@ $ git remote origin, add, commit, push
 $ git tag v1.0.0
 $ git push origin v1.0.0
 ```
+
+## Upgrade Module
+- cukup bikin tag aja
